@@ -19,6 +19,7 @@ _This project is a good example of using gulp, javascript module functionality, 
 ## Known Bugs
 
 _It's mostly bug free._
+_Note: This application is missing an .env file with an apiKey for full functionality. User can recieve one from registering with Yandex._
 
 ## Support and contact details
 
@@ -26,7 +27,7 @@ _Feel free to contact TJ2001 to the project by Github or snail-mail via Epicodus
 
 ## Technologies Used
 
-_Java, Gradle, and Android SDK._
+_NPM, Bower, APM, Gulp, and Git._
 
 ### License
 
